@@ -1,0 +1,5 @@
+c:\users\codenlive\documents\visual studio 2015\Projects\PrimitiveDataTypes\VariableInHex\bin\Debug\VariableInHex.exe.config
+c:\users\codenlive\documents\visual studio 2015\Projects\PrimitiveDataTypes\VariableInHex\bin\Debug\VariableInHex.exe
+c:\users\codenlive\documents\visual studio 2015\Projects\PrimitiveDataTypes\VariableInHex\bin\Debug\VariableInHex.pdb
+c:\users\codenlive\documents\visual studio 2015\Projects\PrimitiveDataTypes\VariableInHex\obj\Debug\VariableInHex.exe
+c:\users\codenlive\documents\visual studio 2015\Projects\PrimitiveDataTypes\VariableInHex\obj\Debug\VariableInHex.pdb

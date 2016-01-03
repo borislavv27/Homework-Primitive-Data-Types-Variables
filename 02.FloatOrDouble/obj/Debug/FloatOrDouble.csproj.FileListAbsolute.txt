@@ -1,0 +1,5 @@
+c:\users\codenlive\documents\visual studio 2015\Projects\PrimitiveDataTypes\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+c:\users\codenlive\documents\visual studio 2015\Projects\PrimitiveDataTypes\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+c:\users\codenlive\documents\visual studio 2015\Projects\PrimitiveDataTypes\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+c:\users\codenlive\documents\visual studio 2015\Projects\PrimitiveDataTypes\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+c:\users\codenlive\documents\visual studio 2015\Projects\PrimitiveDataTypes\FloatOrDouble\obj\Debug\FloatOrDouble.pdb
