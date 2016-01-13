@@ -1,0 +1,6 @@
+C:\Users\CodeNLive\documents\visual studio 2015\Projects\PrimitiveDataTypes\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+C:\Users\CodeNLive\documents\visual studio 2015\Projects\PrimitiveDataTypes\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
+C:\Users\CodeNLive\documents\visual studio 2015\Projects\PrimitiveDataTypes\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb
+C:\Users\CodeNLive\documents\visual studio 2015\Projects\PrimitiveDataTypes\UnicodeCharacter\obj\Debug\UnicodeCharacter.csprojResolveAssemblyReference.cache
+C:\Users\CodeNLive\documents\visual studio 2015\Projects\PrimitiveDataTypes\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+C:\Users\CodeNLive\documents\visual studio 2015\Projects\PrimitiveDataTypes\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb

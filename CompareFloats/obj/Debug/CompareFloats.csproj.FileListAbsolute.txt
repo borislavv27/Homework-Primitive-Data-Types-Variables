@@ -1,0 +1,6 @@
+C:\Users\CodeNLive\documents\visual studio 2015\Projects\PrimitiveDataTypes\CompareFloats\bin\Debug\CompareFloats.exe.config
+C:\Users\CodeNLive\documents\visual studio 2015\Projects\PrimitiveDataTypes\CompareFloats\obj\Debug\CompareFloats.csprojResolveAssemblyReference.cache
+C:\Users\CodeNLive\documents\visual studio 2015\Projects\PrimitiveDataTypes\CompareFloats\bin\Debug\CompareFloats.exe
+C:\Users\CodeNLive\documents\visual studio 2015\Projects\PrimitiveDataTypes\CompareFloats\bin\Debug\CompareFloats.pdb
+C:\Users\CodeNLive\documents\visual studio 2015\Projects\PrimitiveDataTypes\CompareFloats\obj\Debug\CompareFloats.exe
+C:\Users\CodeNLive\documents\visual studio 2015\Projects\PrimitiveDataTypes\CompareFloats\obj\Debug\CompareFloats.pdb

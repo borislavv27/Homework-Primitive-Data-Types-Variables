@@ -1,0 +1,5 @@
+C:\Users\CodeNLive\documents\visual studio 2015\Projects\PrimitiveDataTypes\StringAndObjects\bin\Debug\StringAndObjects.exe.config
+C:\Users\CodeNLive\documents\visual studio 2015\Projects\PrimitiveDataTypes\StringAndObjects\bin\Debug\StringAndObjects.exe
+C:\Users\CodeNLive\documents\visual studio 2015\Projects\PrimitiveDataTypes\StringAndObjects\bin\Debug\StringAndObjects.pdb
+C:\Users\CodeNLive\documents\visual studio 2015\Projects\PrimitiveDataTypes\StringAndObjects\obj\Debug\StringAndObjects.exe
+C:\Users\CodeNLive\documents\visual studio 2015\Projects\PrimitiveDataTypes\StringAndObjects\obj\Debug\StringAndObjects.pdb

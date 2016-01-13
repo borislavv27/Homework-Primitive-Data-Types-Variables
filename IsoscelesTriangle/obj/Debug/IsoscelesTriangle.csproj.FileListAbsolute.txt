@@ -1,0 +1,5 @@
+C:\Users\CodeNLive\documents\visual studio 2015\Projects\PrimitiveDataTypes\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+C:\Users\CodeNLive\documents\visual studio 2015\Projects\PrimitiveDataTypes\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+C:\Users\CodeNLive\documents\visual studio 2015\Projects\PrimitiveDataTypes\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
+C:\Users\CodeNLive\documents\visual studio 2015\Projects\PrimitiveDataTypes\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+C:\Users\CodeNLive\documents\visual studio 2015\Projects\PrimitiveDataTypes\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb

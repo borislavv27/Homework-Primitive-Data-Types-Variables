@@ -1,0 +1,5 @@
+C:\Users\CodeNLive\documents\visual studio 2015\Projects\PrimitiveDataTypes\BankAccountData\bin\Debug\BankAccountData.exe.config
+C:\Users\CodeNLive\documents\visual studio 2015\Projects\PrimitiveDataTypes\BankAccountData\bin\Debug\BankAccountData.exe
+C:\Users\CodeNLive\documents\visual studio 2015\Projects\PrimitiveDataTypes\BankAccountData\bin\Debug\BankAccountData.pdb
+C:\Users\CodeNLive\documents\visual studio 2015\Projects\PrimitiveDataTypes\BankAccountData\obj\Debug\BankAccountData.exe
+C:\Users\CodeNLive\documents\visual studio 2015\Projects\PrimitiveDataTypes\BankAccountData\obj\Debug\BankAccountData.pdb

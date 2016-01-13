@@ -1,0 +1,5 @@
+C:\Users\CodeNLive\documents\visual studio 2015\Projects\PrimitiveDataTypes\ExchangeVariablesValue\bin\Debug\ExchangeVariablesValue.exe.config
+C:\Users\CodeNLive\documents\visual studio 2015\Projects\PrimitiveDataTypes\ExchangeVariablesValue\bin\Debug\ExchangeVariablesValue.exe
+C:\Users\CodeNLive\documents\visual studio 2015\Projects\PrimitiveDataTypes\ExchangeVariablesValue\bin\Debug\ExchangeVariablesValue.pdb
+C:\Users\CodeNLive\documents\visual studio 2015\Projects\PrimitiveDataTypes\ExchangeVariablesValue\obj\Debug\ExchangeVariablesValue.exe
+C:\Users\CodeNLive\documents\visual studio 2015\Projects\PrimitiveDataTypes\ExchangeVariablesValue\obj\Debug\ExchangeVariablesValue.pdb
